@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SrpLab.Runner/SrpLab.Runner.csproj" />
+  <Project Path="SrpLab.csproj" />
+</Solution>
